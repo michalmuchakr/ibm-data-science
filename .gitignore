@@ -181,3 +181,5 @@ logs/
 
 # Jupyter notebook outputs (optional - uncomment if you want to ignore notebook outputs)
 # *.ipynb
+
+iframe_figures/
